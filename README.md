@@ -42,10 +42,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://static.republika.co.id/uploads/images/inpicture_slide/google_240117163030-812.png" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://www.ambient-it.net/wp-content/uploads/2022/06/formation-power-query.png" height="40" alt="webpack logo"  />
